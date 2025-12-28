@@ -148,7 +148,7 @@ kcrash
 # CALAMARES INSTALLER - System installer and dependencies
 ################################################################################
 calamares
-calamares-config
+trumpos-calamares-configs
 kpmcore
 xxkpmcore
 yaml-cpp
