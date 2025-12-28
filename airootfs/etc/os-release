@@ -1,0 +1,10 @@
+NAME="TrumpOS"
+PRETTY_NAME="TrumpOS Linux"
+ID=trumpos
+BUILD_ID=rolling
+ANSI_COLOR="1;31"
+HOME_URL="https://trumpos.com/"
+DOCUMENTATION_URL="https://trumpos.com/docs"
+SUPPORT_URL="https://trumpos.com/support"
+BUG_REPORT_URL="https://bugs.trumpos.com/"
+LOGO=trumpos-logo
